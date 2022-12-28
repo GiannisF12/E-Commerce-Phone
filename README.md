@@ -1,6 +1,6 @@
 ### E-Commerce-Phone
-####
-#####
+#### Made with Php,Html,Css,Bootsrap,Js.
+##### Small and Simple Shop easy to learn for another person paid me to make.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/44063119/209819137-3a941ffa-bbc1-4c07-ad46-76d15c097030.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/44063119/209819146-f2c695f0-1b26-4cc6-b217-eac577eb4789.png)
